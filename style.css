@@ -1,0 +1,28 @@
+#nameHead {
+	background: url("/home/justin/Documents/Projects/Portfolio/ocean.jpg") no-repeat center center;
+	background-size: cover;
+	font-size: 25px;
+	text-shadow: 4px 4px 8px #000000;
+}
+
+#gettoknow {
+	text-shadow: 1px 1px 4px #B2B5BE;
+}
+
+#html {
+	height: 200px;
+	width: 200px;
+}
+
+#info {
+	border-bottom: 2px solid #5BC0DE;
+}
+
+#theprocess {
+	text-shadow: 1px 1px 4px #5BC0DE;
+}
+
+#contact {
+	background: url("/home/justin/Documents/Projects/Portfolio/ocean.jpg") no-repeat center center;
+	background-size: cover;
+}
