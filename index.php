@@ -14,7 +14,7 @@
       <!-- header -->
       <div class='jumbotron text-right text-info ' id="nameHead">
         <h1 class="display-4 pt-5">Justin Warger</h1>
-        <p>Professional Web Designer</p>
+        <p>Professional Developer</p>
       </div>
     </div>
     <!-- /header -->
@@ -39,7 +39,7 @@
     <div class="container" id="gettoKnow">
       <div class="row">
         <div class="col-xl-4 col-lg-12 text-center mb-3">
-          <img src="/images/profile.jpg" class="rounded-circle img-fluid">
+          <img src="/images/profile.jpg" class="rounded-circle img-fluid" alt="Picture of me!">
         </div>
         <div class="text-center col-xl-8 col-lg-12 p-5">
           <h3 class="display-4 text-info" id="gettoknow">Get to know me</h3>
@@ -75,16 +75,16 @@
       <h1 class="m-5">Languages I work with</h1>
       <div class="row mt-5">
         <div class="col-lg-3 mb-5">
-          <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" class="img-fluid" id="html">
+          <img src="/images/html.png" class="img-fluid" id="html" alt="Language Logo">
         </div>
         <div class="col-lg-3 mb-5">
-          <img src="http://www.mechittechnologies.com/images/technology/css.png" class="img-fluid" id="html">
+          <img src="/images/css.png" class="img-fluid" id="html" alt="Language Logo">
         </div>
         <div class="col-lg-3 mb-5">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" class="img-fluid" id="html">
+          <img src="/images/javascript.png" class="img-fluid" id="html" alt="Language Logo">
         </div>
         <div class="col-lg-3 mb-5">
-          <img src="http://www.syngrid.com/images/mak_banner/tech/php-logo.svg" class="img-fluid" id="html">
+          <img src="/images/php.svg" class="img-fluid" id="html" alt="Language Logo">
         </div>
       </div>
     </div>
@@ -94,7 +94,7 @@
     <div class="container-fluid" id="treehouse">
       <div class="jumbotron text-center">
         <a href="https://teamtreehouse.com/justinwarger" target="blank">
-          <img src="https://2014.chicago.wordcamp.org/files/2014/05/Treehouse-Logo-Outlines.png" class="img-fluid mt-5">
+          <img src="/images/treehouse.png" class="img-fluid mt-5">
         </a>
         <h3 class="my-5">Check out my profile to get a feel for the courses I have taken and skills I have.</h3>
       </div>
@@ -114,7 +114,7 @@
       </div>
       <div class="row my-5 pb-5" id="info">
         <div class="col-lg-4 text-right col-xs-4 text-center mb-5">
-          <img src="/images/layout.png" height="150px" width="150px">
+          <img src="/images/layout.png" height="150px" width="150px" alt="Small Round Image">
         </div>
         <div class="col-lg-8 text-left mt-2">
           <h1 class="text-muted">Site Structure & Layout</h1>
@@ -123,7 +123,7 @@
       </div>
       <div class="row my-5 pb-5" id="info">
         <div class="col-lg-4 text-right col-xs-4 text-center mb-5">
-          <img src="/images/phone.png" height="150px" width="150px">
+          <img src="/images/phone.png" height="150px" width="150px" alt="Small Round Image">
         </div>
         <div class="col-lg-8 text-left mt-2">
           <h1 class="text-muted">Working Prototype</h1>
@@ -132,7 +132,7 @@
       </div>
       <div class="row my-5 pb-5" id="info">
         <div class="col-lg-4 text-right col-xs-4 text-center mb-5">
-          <img src="/images/details.png" height="150px" width="150px">
+          <img src="/images/details.png" height="150px" width="150px" alt="Small Round Image">
         </div>
         <div class="col-lg-8 text-left mt-2">
           <h1 class="text-muted">Details</h1>
@@ -141,7 +141,7 @@
       </div>
       <div class="row my-5 pb-5" id="info">
         <div class="col-lg-4 text-right col-xs-4 text-center mb-5">
-          <img src="/images/lock.png" height="150px" width="150px">
+          <img src="/images/lock.png" height="150px" width="150px" alt="Small Round Image">
         </div>
         <div class="col-lg-8 text-left mt-2">
           <h1 class="text-muted">You're in Control</h1>
@@ -150,7 +150,7 @@
       </div>
       <div class="row my-5 pb-5">
         <div class="col-lg-4 text-right col-xs-4 text-center mb-5">
-          <img src="/images/globe.png" height="150px" width="150px">
+          <img src="/images/globe.png" height="150px" width="150px" alt="Small Round Image">
         </div>
         <div class="col-lg-8 text-left mt-2">
           <h1 class="text-muted">Deployment</h1>
